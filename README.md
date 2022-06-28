@@ -18,7 +18,7 @@ Employed different techniques to train and evaluate models with unbalanced class
 
 ## Purpose:
 
-Explain how a machine learning algorithm is used in data analytics.
+To explain how a machine learning algorithm is used in data analytics.
 
 Create training and test groups from a given data set.
 
@@ -161,4 +161,6 @@ The balanced accuracy scores and the precision and recall scores of all six mach
 
 ## Summary
 
-Easy Ensemble AdaBoost Classifier is shown to be the best machine learning model with a low risk recall score of .94. It should be the one chosen for the credit card analysis.
+In this challnege we used oversampling, undersampling , Combination (Over and Under) Sampling models as well as Ensemble Learners to find a best fitting algorithm to predict credit risk. This was an unbalanced classification problem, therefore many models were tested.
+
+Easy Ensemble AdaBoost Classifier is shown to be the best machine learning model with a low risk recall score of .94. It would be the best model to choose for the credit card analysis.
